@@ -1,2 +1,2 @@
 export MOVIE_API_KEY='15b64426a487c5223111e93c3f2fa32f'
-export SECRET_KEY=<Your secret key>
+export SECRET_KEY='6f38b5d2-d304-4027-bd7c-90781db4a17a'
